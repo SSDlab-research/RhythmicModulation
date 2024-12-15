@@ -1,0 +1,6 @@
+1.5625251522832102	Audio	she had your dark suit in greasy wash water all year_onset
+7.415330376060643	Audio	she had your dark suit in greasy wash water all year_offset
+8.437321226708697	Audio	the other one is too big_onset
+10.898541213487732	Audio	the other one is too big_offset
+11.991995457520986	Audio	a new seed will grow fast_onset
+14.68383911230422	Audio	a new seed will grow fast_offset

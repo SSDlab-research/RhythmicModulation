@@ -1,0 +1,4 @@
+2.072692865472743	Audio	the other one is too big_onset
+4.764612244597485	Audio	the other one is too big_offset
+5.325213807490255	Audio	a new seed will grow fast_onset
+7.969609554560057	Audio	a new seed will grow fast_offset

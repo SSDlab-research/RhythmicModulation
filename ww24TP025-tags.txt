@@ -1,0 +1,6 @@
+1.4437267710726944	Audio	i took a spoon and dish_onset
+3.8500636137626087	Audio	i took a spoon and dish_offset
+5.588986805435192	Audio	the bad one is in the box_onset
+8.455618549287307	Audio	the bad one is in the box_offset
+10.093840864523235	Audio	to feed the cat one must shoo the dog_onset
+14.089112404314177	Audio	to feed the cat one must shoo the dog_offset

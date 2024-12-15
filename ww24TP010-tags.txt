@@ -1,0 +1,6 @@
+2.064756868819602	Audio	the other one is too big_onset
+5.105470895724531	Audio	the other one is too big_offset
+6.357691237443959	Audio	across the street stands a country school_onset
+10.798320460834834	Audio	across the street stands a country school_offset
+11.885335802741153	Audio	a new seed will grow fast_onset
+14.718483247132717	Audio	a new seed will grow fast_offset

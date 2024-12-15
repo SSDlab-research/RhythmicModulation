@@ -1,0 +1,4 @@
+1.289066060869953	Audio	across the street stands a country school_onset
+6.029856370404572	Audio	across the street stands a country school_offset
+7.358409833577611	Audio	to feed the cat one must shoo the dog_onset
+11.45849516361707	Audio	to feed the cat one must shoo the dog_offset

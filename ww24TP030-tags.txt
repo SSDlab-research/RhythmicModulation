@@ -1,0 +1,4 @@
+1.2546812638835003	Audio	once he thought he saw a bird but it was just a large leaf that had failed to drop to the ground during the winter_onset
+12.259837766949866	Audio	once he thought he saw a bird but it was just a large leaf that had failed to drop to the ground during the winter_offset
+13.303085245636378	Audio	tom stopped near a small stream to rest_onset
+17.050643648298397	Audio	tom stopped near a small stream to rest_offset
