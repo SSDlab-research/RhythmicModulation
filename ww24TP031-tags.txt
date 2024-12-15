@@ -1,0 +1,6 @@
+1.3535863783043782	Audio	the birds flew to the edge of the stream unaware of the hunter_onset
+7.249475821568291	Audio	the birds flew to the edge of the stream unaware of the hunter_offset
+8.21235345039577	Audio	tom placed his hand on his gun quietly_onset
+12.249315686451899	Audio	tom placed his hand on his gun quietly_offset
+13.244877236206385	Audio	slowly he raised it to his shoulder and took aim_onset
+17.53609343179028	Audio	slowly he raised it to his shoulder and took aim_offset

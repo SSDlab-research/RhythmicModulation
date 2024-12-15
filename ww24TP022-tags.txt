@@ -1,0 +1,6 @@
+1.3263866626832261	Audio	i took a spoon and dish_onset
+4.035163292048217	Audio	i took a spoon and dish_offset
+4.848329534889657	Audio	a new seed will grow fast_onset
+7.440103020382754	Audio	a new seed will grow fast_offset
+8.890743458646488	Audio	across the street stands a country school_onset
+13.191783555572858	Audio	across the street stands a country school_offset

@@ -1,0 +1,4 @@
+2.2832082510273133	Audio	but this march tom found himself by a small stream with a gun_onset
+9.323379576939585	Audio	but this march tom found himself by a small stream with a gun_offset
+10.066869377787606	Audio	the other one is too big_onset
+12.66310062324141	Audio	the other one is too big_offset

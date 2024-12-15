@@ -1,0 +1,4 @@
+0.8318739711858839	Audio	this march tom found himself by a small stream with a gun at rest in the crook of his arm_onset
+10.87602064673465	Audio	this march tom found himself by a small stream with a gun at rest in the crook of his arm_offset
+11.719450152575899	Audio	the desk that had tied him down was gone and his one thought was for quail_onset
+19.613095526238254	Audio	the desk that had tied him down was gone and his one thought was for quail_offset

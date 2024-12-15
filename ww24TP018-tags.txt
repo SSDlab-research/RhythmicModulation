@@ -1,0 +1,6 @@
+2.3387807908227365	Audio	i took a spoon and dish_onset
+5.050251258419732	Audio	i took a spoon and dish_offset
+6.34434166241511	Audio	a new seed will grow fast_onset
+9.097412476229769	Audio	a new seed will grow fast_offset
+10.425306270939203	Audio	the bad one is in the box_onset
+13.490269792742291	Audio	the bad one is in the box_offset

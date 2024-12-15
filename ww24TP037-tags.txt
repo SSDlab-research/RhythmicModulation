@@ -1,0 +1,4 @@
+1.6227139695926327	Audio	across the street stands a country school_onset
+5.723783780163587	Audio	across the street stands a country school_offset
+7.07827163021197	Audio	but this march tom found himself by a small stream with a gun_onset
+13.031840017199297	Audio	but this march tom found himself by a small stream with a gun_offset

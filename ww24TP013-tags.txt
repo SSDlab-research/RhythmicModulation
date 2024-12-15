@@ -1,0 +1,4 @@
+2.8685314051065105	Audio	to feed the cat one must shoo the dog_onset
+8.77957488825056	Audio	to feed the cat one must shoo the dog_offset
+10.39335072925159	Audio	the other one is too big_onset
+14.149858619706313	Audio	the other one is too big_offset

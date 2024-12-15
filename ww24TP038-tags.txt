@@ -1,0 +1,6 @@
+0.9747596779490028	Audio	the other one is too big_onset
+3.594750752856548	Audio	the other one is too big_offset
+4.733487506644065	Audio	across the street stands a country school_onset
+8.909222181271033	Audio	across the street stands a country school_offset
+10.388611200316578	Audio	the bad one is in the box_onset
+13.017599184363986	Audio	the bad one is in the box_offset

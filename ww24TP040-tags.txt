@@ -1,0 +1,6 @@
+1.6723650951677544	Audio	to feed the cat one must shoo the dog_onset
+5.785850318213203	Audio	to feed the cat one must shoo the dog_offset
+7.558940278781716	Audio	a new seed will grow fast_onset
+10.534478612734633	Audio	a new seed will grow fast_offset
+11.345996779356284	Audio	the other one is too big_onset
+14.035943537991654	Audio	the other one is too big_offset

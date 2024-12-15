@@ -1,0 +1,6 @@
+1.0627320154675406	Audio	the bad one is in the box_onset
+3.806317315133338	Audio	the bad one is in the box_offset
+4.849480898845738	Audio	across the street stands a country school_onset
+8.778961158685524	Audio	across the street stands a country school_offset
+9.932913236920648	Audio	i took a spoon and dish_onset
+12.961440020868997	Audio	i took a spoon and dish_offset

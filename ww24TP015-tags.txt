@@ -1,0 +1,4 @@
+2.6493126460044922	Audio	to feed the cat one must shoo the dog_onset
+7.056042943860169	Audio	to feed the cat one must shoo the dog_offset
+8.001022725122782	Audio	to feed the cat one must shoo the dog_onset
+12.414549330538796	Audio	to feed the cat one must shoo the dog_offset
